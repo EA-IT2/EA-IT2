@@ -1,4 +1,4 @@
-![Data](https://github.com/EA-IT2/EA-IT2/blob/main/IT%20Banner.png)
+
 
 ### Hi there, I'm Ernest Appiah
 
